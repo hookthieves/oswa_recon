@@ -1,15 +1,14 @@
 #!/bin/bash
 
-# Define green color
+# Define green and gray colors
 GREEN="\033[0;32m"
 RESET="\033[0m"
 
-# Display Banner
-echo -e "${GREEN}----------------------------------"
-echo -e "OSWA Recon"
-echo -e "Designed By Cuong Nguyen"
-echo -e "----------------------------------${RESET}"
-echo
+echo "========================="
+echo "OSWA Recon Scans"
+echo "Designed By Cuong Nguyen"
+echo "========================="
+
 
 # Ask the user for an IP address
 read -p "Enter the IP address: " IP
