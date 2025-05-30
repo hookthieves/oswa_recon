@@ -72,8 +72,3 @@ Each scan result will be saved to an output file named according to the target I
 * This script does not perform any advanced logic or validation beyond basic input checking.
 * Ensure wordlist paths are correct on your system.
 * Intended for use in lab environments or authorized penetration tests only.
-
-```
-
-Let me know if you’d like a version that includes links to download the wordlists or add a `--help` flag!
-```
